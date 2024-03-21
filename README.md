@@ -1,1 +1,1 @@
-[Probability/Probability.md]
+[Probability/Probability.md](url)
